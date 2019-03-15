@@ -13,3 +13,5 @@
 - Posts in groups(similar to a tweet)
 - Linking user profiles with @symbol
 - Multiple application(groups,posts and accounts)
+
+To run this project , use this command > python manage.py runserver
