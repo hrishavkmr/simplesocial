@@ -1,13 +1,13 @@
 # simplesocial
 
-# Dependencies
+## Dependencies
 - braces
 - bootstrap3
 - misaka
 - django 1.11
 - python 3.6
 
-The main key features of this project are
+## The main key features of this project are
 - Groups
 - Multiple users and authorizations
 - Posts in groups(similar to a tweet)
