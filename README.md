@@ -16,3 +16,6 @@
 
 To run this project , use this command 
 > python manage.py runserver
+
+## website
+https://galaxy-social.herokuapp.com/
